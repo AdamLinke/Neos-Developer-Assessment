@@ -31,9 +31,13 @@ ProjectName
 ```
 
 In the project you can often find shortcuts like:
+
 VC - ViewController
+
 VM - ViewModel
+
 MC - ModelController
+
 
 The architecture is a mix between apple's variation of MVC pattern and MVVM patter.
 It uses dependency injection and delegation pattern for communication between moduls and viewControllers.
