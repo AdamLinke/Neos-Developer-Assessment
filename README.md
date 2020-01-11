@@ -7,6 +7,7 @@ command
 You can find diagram for this project architecture in the "architecture.jpeg".
 
 Proposed file structure:
+```
 ProjectName
 - AppDelegate
 - SceneDelegate
@@ -27,6 +28,7 @@ ProjectName
 
 - ModelsFile
 -- Model
+```
 
 In the project you can often find shortcuts like:
 VC - ViewController
